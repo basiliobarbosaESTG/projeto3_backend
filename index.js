@@ -9,6 +9,6 @@ app.listen(3000, () => {
 })
 
 app.get("/user", function(req, res){ /**req cliente vai mandar para servidor e res é o que o servidor manda */
-    res.send("eu sou o buzz")
+    res.send("eu sou o pedro")
 })
 
